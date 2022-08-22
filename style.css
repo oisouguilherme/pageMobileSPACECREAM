@@ -5,8 +5,12 @@
     background-color: #EFF1FF;
 }
 
+:root {
+    font-size: 62.5%;
+}
+
 .head {
-    height: 300px;
+    height: 30.0rem;
     background: #8E9AAF ;
     display: flex;
     flex-direction: column;
@@ -14,36 +18,36 @@
 }
 
 .logo {
-    padding-top: 32px;
+    padding-top: 3.2rem;
     background: #8E9AAF ;
-    padding-bottom: 40px;
+    padding-bottom: 4.0rem;
 }
 
 h1 {
     font-family: 'Staatliches', cursive;
-    font-size: 40px;
-    line-height: 34px;
+    font-size: 4.0rem;
+    line-height: 3.4rem;
     color: white;
-    font-weight: 400;
+    font-weight: 40.0rem;
     width: 100%;
     text-align: center;
-    height: 49px;
+    height: 4.9rem;
     padding: 8px 86px;
     background: #CBC0D3;
 }
 
 main {
-    width: 384px;
+    width: 38.4rem;
     margin: 0 auto;
     background: #EFF1FF;
 }
 
 p {
     font-family: 'Palanquin', sans-serif;
-    font-size: 20px;
-    line-height: 15px;
+    font-size: 2.0rem;
+    line-height: 1.5rem;
     color: #23053A;
-    padding: 35px;
+    padding: 3.5rem;
     text-align: center;
  
 }
@@ -51,35 +55,35 @@ p {
 .img {
     display: flex;
     flex-direction: column;
-    padding: 32px;
-    gap: 32px;
+    padding: 3.2rem;
+    gap: 3.2rem;
 }
 
 .card h2{
     font-family: 'Staatliches';
-    font-size: 20px;
-    line-height: 34px;
+    font-size: 2.0rem;
+    line-height: 3.4rem;
     position: relative;
-    left: 190px;
-    bottom: 240px;
+    left: 19.0rem;
+    bottom: 24.0rem;
     background: #FEEAFA;
-    width: 112px;
-    height: 35px;
-    border-radius: 20px;
+    width: 11.2rem;
+    height: 3.5rem;
+    border-radius: 2.0rem;
     text-align: center;
 }
 
 .card-2 h2 {
     font-family: 'Staatliches';
-    font-size: 20px;
-    line-height: 34px;
+    font-size: 2.0rem;
+    line-height: 3.4rem;
     position: relative;
-    left: 190px;
-    bottom: 430px;
+    left: 19.0rem;
+    bottom: 43.0rem;
     background: #FEEAFA;
-    width: 112px;
-    height: 35px;
-    border-radius: 20px;
+    width: 11.2rem;
+    height: 3.5rem;
+    border-radius: 2.0rem;
     text-align: center;
     padding-top:4px ;
 }
